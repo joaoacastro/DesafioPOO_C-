@@ -1,0 +1,14 @@
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\bin\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.exe
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\bin\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.deps.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\bin\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.runtimeconfig.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\bin\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\bin\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.AssemblyInfoInputs.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.AssemblyInfo.cs
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.csproj.CoreCompileInputs.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\refint\SistemaAbstraindoUmCelularComPOOemC#.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\SistemaAbstraindoUmCelularComPOOemC#.genruntimeconfig.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaAbstraindoUmCelularComPOOemC#\obj\Debug\net8.0\ref\SistemaAbstraindoUmCelularComPOOemC#.dll
